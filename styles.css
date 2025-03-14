@@ -54,6 +54,10 @@ form button:hover {
   background-color: #4cae4c;
 }
 
+.gcse-search {
+  margin-top: 20px;
+}
+
 .results-section {
   margin-top: 20px;
 }
